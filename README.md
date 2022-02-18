@@ -1,5 +1,5 @@
 # iOS 4WD Rover ESP-32
- iOS application for controlling a 4WD Rover powered by an ESP-32  microcontroller
+ iOS application for controlling a 4WD Rover powered by an ESP-32  microcontroller.
  Goal: The aim of this project was the remote control of a rover device powered by an ESP-32 microcontroller with a dedicated iOS application.
  The rover was equipped with 2 HCSR04 ultrasonic sensors, 2 infrared sensors, a battery slot and of course 4 dc motors and can be piloted in two different ways: 
  1) Manually
