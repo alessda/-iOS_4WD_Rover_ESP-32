@@ -9,7 +9,7 @@
  Of course the device can be stopped at any time with the iPhone application. 
  All data obtained from the sensors (presence of an obstacle and its distance) will be shown in the iOS app in real time.
  Both the ESP-32 microcontroller and the iOS device must be connected on the same wifi network in order to control the rover.
- Only for testing porpoises a desktop python gui was built in order to control the device prior to the development of the iOS application.
+ Only for testing porpoises a desktop python gui was built in order to control the device prior to the development of the iOS application (4WD Rover ESP32 Desktop client).
  
 # Technical Information
 - The python code was developed under Zerynth studio, consequently it will not run properly under any other environment, you will have to register your microcontroller under zerynth studio and then run the code.
