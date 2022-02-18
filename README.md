@@ -12,7 +12,7 @@
  Also a desktop python gui was built in order to control the device prior to the development of the iOS application (4WD Rover ESP32 Desktop client).
  
 # Technical Information
-- The python code was developed under Zerynth studio, consequently it will not run properly under any other environment, you will have to register your microcontroller under zerynth studio and then run the code.
+- The python code for the microcontroller was developed under Zerynth studio, consequently it will not run properly under any other environment, you will have to register your microcontroller under zerynth studio and then run the code.
 - Due to zerynth studio limitations a c library was included.
 - The iOS application was specifically developed for an iPhone XR withouth using constraints in the GUI, therefore it may look a bit messy on other devices.
 - A device running XCode is required in order to sideload the iOS application into a compatible iOS device.
