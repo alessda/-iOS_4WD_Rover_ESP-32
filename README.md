@@ -1,12 +1,4 @@
 # iOS 4WD Rover ESP-32
-<p align="center">
- <img alt="Languages" src="https://img.shields.io/badge/language-Python-yellow">
- <img alt="Languages" src="https://img.shields.io/badge/language-Swift-orange">
- <img alt="Version" src="https://img.shields.io/badge/python->=3.6-blue"/>
- <img alt="Version" src="https://img.shields.io/badge/swift->=5-green"/>
- <img alt="Version" src="https://img.shields.io/badge/version-1.0-blue"/>
-  <img alt="Development" src="https://img.shields.io/badge/development-terminated-brightgreen"/>   
-</p>
 
  iOS application for controlling a 4WD Rover powered by an ESP-32  microcontroller.
  Goal: The aim of this project was the remote control of a rover device powered by an ESP-32 microcontroller with a dedicated iOS application.
