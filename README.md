@@ -1,10 +1,10 @@
 # iOS 4WD Rover ESP-32
 
 <p align="center">
- <img alt="Languages" src="https://img.shields.io/badge/language-Python-yellow">
- <img alt="Languages" src="https://img.shields.io/badge/language-Swift-orange">
- <img alt="Version" src="https://img.shields.io/badge/Python->=3.6-yellow"/>
- <img alt="Version" src="https://img.shields.io/badge/Swift->=5.0-orange"/>
+ <img alt="Languages" src="https://img.shields.io/badge/language-Python-blue">
+ <img alt="Languages" src="https://img.shields.io/badge/language-Swift-blue">
+ <img alt="Version" src="https://img.shields.io/badge/Python->=3.6-blue"/>
+ <img alt="Version" src="https://img.shields.io/badge/Swift->=5.0-blue"/>
  <img alt="Version" src="https://img.shields.io/badge/version-2.0-blue"/>
   <img alt="Development" src="https://img.shields.io/badge/development-terminated-brightgreen"/>   
 </p>
